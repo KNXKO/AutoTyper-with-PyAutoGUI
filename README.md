@@ -1,2 +1,2 @@
 # PythonTextSpammer
-Simple text spammer in python. Run Python file and click to input. Working in everywhere!
+Simple text spammer in python.  Working everywhere!
